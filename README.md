@@ -1,7 +1,7 @@
 # Olá, Mundo!
  Primeiro Repositório do Curso Git e GitHub
 
- Repositório criado durante uma aula ao vivo!
+ Repositório criado durante uma aula ao viv
 
 Essa linha eu alterei no site. Que legal!
 
